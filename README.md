@@ -1,12 +1,3 @@
-# stm32beta Project
-
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/STM32beta/STM32beta?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[![Build SemaphoreCI](https://semaphoreci.com/api/v1/STM32beta/STM32beta/branches/master/badge.svg)](https://semaphoreci.com/STM32beta/STM32beta)
-
-[![Build Travis](https://travis-ci.org/STM32beta/STM32beta.svg?branch=master)](https://travis-ci.org/STM32beta/STM32beta)
-
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/5331/badge.svg)](https://scan.coverity.com/projects/STM32beta-STM32beta)
 
 ## The STM32beta project is made up of: ##
 
